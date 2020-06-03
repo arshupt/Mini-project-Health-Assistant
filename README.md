@@ -1,6 +1,6 @@
 # PrimeAide - The Health Assistant App
 
-PrimeAide is a Mini-project done by [Arshu](https://github.com/arshupt), [Denil](https://github.com/tupio)(Me), [Randheer](https://github.com/randheerrrk) & Subash. It is made to enable basic diagnosing of the common diseases when doctors are unreachable. Though initial development focussed on making it completely offline solution, we resolved to online because of a lack of on-device processing power required and the complexity associated with it.
+PrimeAide is a Mini-project done by [Arshu](https://github.com/arshupt), [Denil](https://github.com/tupio), [Randheer](https://github.com/randheerrrk) & Subash. It is made to enable basic diagnosing of the common diseases when doctors are unreachable. Though initial development focussed on making it completely offline solution, we resolved to online because of a lack of on-device processing power required and the complexity associated with it.
 
 **Note** : This project is meant for educational purposes only and is not production ready. The app may produce undesirable/incorrect result. 
 
